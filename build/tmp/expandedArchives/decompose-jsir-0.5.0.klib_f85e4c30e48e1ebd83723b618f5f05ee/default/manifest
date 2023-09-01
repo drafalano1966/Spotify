@@ -1,0 +1,8 @@
+builtins_platform=JS
+unique_name=Decompose\:decompose
+compiler_version=1.6.10
+depends=Essenty\:lifecycle Essenty\:state-keeper Essenty\:instance-keeper Essenty\:back-pressed Essenty\:parcelable Essenty\:utils-internal kotlin
+jsOutputName=Decompose-decompose-js-ir
+abi_version=1.6.0
+metadata_version=1.4.1
+ir_version=1.0.0

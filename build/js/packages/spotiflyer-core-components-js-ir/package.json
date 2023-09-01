@@ -1,0 +1,15 @@
+{
+  "name": "spotiflyer-core-components-js-ir",
+  "version": "0.0.0-unspecified",
+  "main": "kotlin/spotiflyer-core-components-js-ir.js",
+  "devDependencies": {
+    "dukat": "0.5.8-rc.4"
+  },
+  "dependencies": {
+    "browser-id3-writer": "4.4.0",
+    "file-saver": "2.0.4"
+  },
+  "peerDependencies": {},
+  "optionalDependencies": {},
+  "bundledDependencies": []
+}

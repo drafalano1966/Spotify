@@ -1,0 +1,6 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="data-models-jslegacy">
+    <output-path>$PROJECT_DIR$/common/data-models/build/libs</output-path>
+    <root id="archive" name="data-models-jslegacy.jar" />
+  </artifact>
+</component>

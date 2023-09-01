@@ -1,0 +1,11 @@
+{
+  "name": "sqldelight-coroutines-extensions-js-legacy",
+  "version": "1.5.3",
+  "customFields": {},
+  "main": "sqldelight-coroutines-extensions-js-legacy.js",
+  "devDependencies": {},
+  "dependencies": {},
+  "peerDependencies": {},
+  "optionalDependencies": {},
+  "bundledDependencies": []
+}

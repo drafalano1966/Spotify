@@ -1,0 +1,11 @@
+{
+  "name": "Stately-stately-isolate-js-legacy",
+  "version": "1.2.1",
+  "customFields": {},
+  "main": "Stately-stately-isolate-js-legacy.js",
+  "devDependencies": {},
+  "dependencies": {},
+  "peerDependencies": {},
+  "optionalDependencies": {},
+  "bundledDependencies": []
+}

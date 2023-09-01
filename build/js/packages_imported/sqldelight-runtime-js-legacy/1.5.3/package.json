@@ -1,0 +1,11 @@
+{
+  "name": "sqldelight-runtime-js-legacy",
+  "version": "1.5.3",
+  "customFields": {},
+  "main": "sqldelight-runtime-js-legacy.js",
+  "devDependencies": {},
+  "dependencies": {},
+  "peerDependencies": {},
+  "optionalDependencies": {},
+  "bundledDependencies": []
+}

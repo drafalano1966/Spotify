@@ -1,0 +1,11 @@
+{
+  "name": "Essenty-back-pressed-js-legacy",
+  "version": "0.2.2",
+  "customFields": {},
+  "main": "Essenty-back-pressed-js-legacy.js",
+  "devDependencies": {},
+  "dependencies": {},
+  "peerDependencies": {},
+  "optionalDependencies": {},
+  "bundledDependencies": []
+}

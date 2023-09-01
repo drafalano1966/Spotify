@@ -1,0 +1,11 @@
+{
+  "name": "MVIKotlin-mvikotlin-js-legacy",
+  "version": "3.0.0-alpha03",
+  "customFields": {},
+  "main": "MVIKotlin-mvikotlin-js-legacy.js",
+  "devDependencies": {},
+  "dependencies": {},
+  "peerDependencies": {},
+  "optionalDependencies": {},
+  "bundledDependencies": []
+}

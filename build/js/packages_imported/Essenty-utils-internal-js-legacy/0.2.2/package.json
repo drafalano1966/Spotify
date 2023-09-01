@@ -1,0 +1,11 @@
+{
+  "name": "Essenty-utils-internal-js-legacy",
+  "version": "0.2.2",
+  "customFields": {},
+  "main": "Essenty-utils-internal-js-legacy.js",
+  "devDependencies": {},
+  "dependencies": {},
+  "peerDependencies": {},
+  "optionalDependencies": {},
+  "bundledDependencies": []
+}

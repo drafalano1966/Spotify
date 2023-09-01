@@ -1,0 +1,1 @@
+// Kotlin.kotlin_module_metadata(393729, "moko-parcelize-parcelize-js-legacy", "H4sIAAAAAAAAAD2OQQ6CMBRES1vg95tow6phyQmMN4CdKzmCiNU0YGsIMdEDeABXHsXLeBcLopv5M/OSnyHAk3eAW2R7fcHY1LpzdYP85BqH4lx1tW7NTeNifbSu0/uNLccOo8b1rbGIubWur3rjvP+yatdqZLm9oih/D5ICqSTIgcjAayCpVyoZRsAkV8TT0PtQRt4PXTzeUMKUhSIpewLL5nCniq/oMirIC0g2g4OKfYQhjFD84QMoknSa+gHauLWy6wAAAA==");

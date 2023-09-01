@@ -1,0 +1,359 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<!--
+3  ~  * Copyright (c)  2021  Shabinder Singh
+4  ~  * This program is free software: you can redistribute it and/or modify
+5  ~  * it under the terms of the GNU General Public License as published by
+6  ~  * the Free Software Foundation, either version 3 of the License, or
+7  ~  * (at your option) any later version.
+8  ~  *
+9  ~  * This program is distributed in the hope that it will be useful,
+10  ~  * but WITHOUT ANY WARRANTY; without even the implied warranty of
+11  ~  * MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+12  ~  * GNU General Public License for more details.
+13  ~  *
+14  ~  *  You should have received a copy of the GNU General Public License
+15  ~  *  along with this program.  If not, see <https://www.gnu.org/licenses/>.
+16-->
+17<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+18    package="com.shabinder.spotiflyer"
+19    android:versionCode="31"
+20    android:versionName="3.6.3" >
+21
+22    <uses-sdk
+23        android:minSdkVersion="28"
+23-->/Users/consultant/Downloads/SpotiFlyer-main/android/src/main/AndroidManifest.xml
+24        android:targetSdkVersion="29" />
+24-->/Users/consultant/Downloads/SpotiFlyer-main/android/src/main/AndroidManifest.xml
+25
+26    <queries>
+26-->/Users/consultant/Downloads/SpotiFlyer-main/android/src/main/AndroidManifest.xml:22:5-29:15
+27        <package android:name="com.gaana" />
+27-->/Users/consultant/Downloads/SpotiFlyer-main/android/src/main/AndroidManifest.xml:23:9-45
+27-->/Users/consultant/Downloads/SpotiFlyer-main/android/src/main/AndroidManifest.xml:23:18-42
+28        <package android:name="com.spotify.music" />
+28-->/Users/consultant/Downloads/SpotiFlyer-main/android/src/main/AndroidManifest.xml:24:9-53
+28-->/Users/consultant/Downloads/SpotiFlyer-main/android/src/main/AndroidManifest.xml:24:18-50
+29        <package android:name="com.jio.media.jiobeats" />
+29-->/Users/consultant/Downloads/SpotiFlyer-main/android/src/main/AndroidManifest.xml:25:9-58
+29-->/Users/consultant/Downloads/SpotiFlyer-main/android/src/main/AndroidManifest.xml:25:18-55
+30        <package android:name="com.soundcloud.android" />
+30-->/Users/consultant/Downloads/SpotiFlyer-main/android/src/main/AndroidManifest.xml:26:9-58
+30-->/Users/consultant/Downloads/SpotiFlyer-main/android/src/main/AndroidManifest.xml:26:18-55
+31        <package android:name="com.google.android.youtube" />
+31-->/Users/consultant/Downloads/SpotiFlyer-main/android/src/main/AndroidManifest.xml:27:9-62
+31-->/Users/consultant/Downloads/SpotiFlyer-main/android/src/main/AndroidManifest.xml:27:18-59
+32        <package android:name="com.google.android.apps.youtube.music" />
+32-->/Users/consultant/Downloads/SpotiFlyer-main/android/src/main/AndroidManifest.xml:28:9-73
+32-->/Users/consultant/Downloads/SpotiFlyer-main/android/src/main/AndroidManifest.xml:28:18-70
+33    </queries>
+34
+35    <uses-permission android:name="android.permission.INTERNET" />
+35-->/Users/consultant/Downloads/SpotiFlyer-main/android/src/main/AndroidManifest.xml:31:5-66
+35-->/Users/consultant/Downloads/SpotiFlyer-main/android/src/main/AndroidManifest.xml:31:22-64
+36    <uses-permission android:name="android.permission.QUERY_ALL_PACKAGES" />
+36-->/Users/consultant/Downloads/SpotiFlyer-main/android/src/main/AndroidManifest.xml:32:5-77
+36-->/Users/consultant/Downloads/SpotiFlyer-main/android/src/main/AndroidManifest.xml:32:22-74
+37    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+37-->/Users/consultant/Downloads/SpotiFlyer-main/android/src/main/AndroidManifest.xml:33:5-79
+37-->/Users/consultant/Downloads/SpotiFlyer-main/android/src/main/AndroidManifest.xml:33:22-76
+38    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
+38-->/Users/consultant/Downloads/SpotiFlyer-main/android/src/main/AndroidManifest.xml:34:5-76
+38-->/Users/consultant/Downloads/SpotiFlyer-main/android/src/main/AndroidManifest.xml:34:22-73
+39    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+39-->/Users/consultant/Downloads/SpotiFlyer-main/android/src/main/AndroidManifest.xml:35:5-80
+39-->/Users/consultant/Downloads/SpotiFlyer-main/android/src/main/AndroidManifest.xml:35:22-77
+40    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+40-->/Users/consultant/Downloads/SpotiFlyer-main/android/src/main/AndroidManifest.xml:36:5-37:40
+40-->/Users/consultant/Downloads/SpotiFlyer-main/android/src/main/AndroidManifest.xml:36:22-78
+41    <uses-permission android:name="android.permission.READ_STORAGE_PERMISSION" />
+41-->/Users/consultant/Downloads/SpotiFlyer-main/android/src/main/AndroidManifest.xml:38:5-82
+41-->/Users/consultant/Downloads/SpotiFlyer-main/android/src/main/AndroidManifest.xml:38:22-79
+42    <uses-permission android:name="android.permission.MANAGE_EXTERNAL_STORAGE" />
+42-->/Users/consultant/Downloads/SpotiFlyer-main/android/src/main/AndroidManifest.xml:39:5-40:61
+42-->/Users/consultant/Downloads/SpotiFlyer-main/android/src/main/AndroidManifest.xml:39:22-79
+43    <uses-permission android:name="android.permission.WAKE_LOCK" />
+43-->/Users/consultant/Downloads/SpotiFlyer-main/android/src/main/AndroidManifest.xml:41:5-68
+43-->/Users/consultant/Downloads/SpotiFlyer-main/android/src/main/AndroidManifest.xml:41:22-65
+44    <uses-permission android:name="android.permission.FOREGROUND_SERVICE" />
+44-->/Users/consultant/Downloads/SpotiFlyer-main/android/src/main/AndroidManifest.xml:42:5-77
+44-->/Users/consultant/Downloads/SpotiFlyer-main/android/src/main/AndroidManifest.xml:42:22-74
+45    <uses-permission android:name="android.permission.REQUEST_IGNORE_BATTERY_OPTIMIZATIONS" />
+45-->/Users/consultant/Downloads/SpotiFlyer-main/android/src/main/AndroidManifest.xml:43:5-95
+45-->/Users/consultant/Downloads/SpotiFlyer-main/android/src/main/AndroidManifest.xml:43:22-92
+46
+47    <permission
+47-->[ly.count.android:sdk:20.11.8] /Users/consultant/.gradle/caches/transforms-3/1f92bf98038e55daeae752eab2161b1c/transformed/jetified-sdk-20.11.8/AndroidManifest.xml:11:5-13:47
+48        android:name="com.shabinder.spotiflyer.CountlyPush.BROADCAST_PERMISSION"
+48-->[ly.count.android:sdk:20.11.8] /Users/consultant/.gradle/caches/transforms-3/1f92bf98038e55daeae752eab2161b1c/transformed/jetified-sdk-20.11.8/AndroidManifest.xml:12:9-73
+49        android:protectionLevel="signature" />
+49-->[ly.count.android:sdk:20.11.8] /Users/consultant/.gradle/caches/transforms-3/1f92bf98038e55daeae752eab2161b1c/transformed/jetified-sdk-20.11.8/AndroidManifest.xml:13:9-44
+50
+51    <application
+51-->/Users/consultant/Downloads/SpotiFlyer-main/android/src/main/AndroidManifest.xml:45:5-98:19
+52        android:name="com.shabinder.spotiflyer.App"
+52-->/Users/consultant/Downloads/SpotiFlyer-main/android/src/main/AndroidManifest.xml:46:9-28
+53        android:allowBackup="false"
+53-->/Users/consultant/Downloads/SpotiFlyer-main/android/src/main/AndroidManifest.xml:47:9-36
+54        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+54-->[androidx.core:core:1.7.0] /Users/consultant/.gradle/caches/transforms-3/277cef5a53770c83f4fbc8fe5a9d0fb1/transformed/core-1.7.0/AndroidManifest.xml:24:18-86
+55        android:configChanges="orientation|screenSize"
+55-->/Users/consultant/Downloads/SpotiFlyer-main/android/src/main/AndroidManifest.xml:56:9-55
+56        android:debuggable="true"
+57        android:extractNativeLibs="true"
+57-->/Users/consultant/Downloads/SpotiFlyer-main/android/src/main/AndroidManifest.xml:58:9-41
+58        android:forceDarkAllowed="true"
+58-->/Users/consultant/Downloads/SpotiFlyer-main/android/src/main/AndroidManifest.xml:57:9-40
+59        android:hardwareAccelerated="true"
+59-->/Users/consultant/Downloads/SpotiFlyer-main/android/src/main/AndroidManifest.xml:52:9-43
+60        android:icon="@mipmap/ic_launcher"
+60-->/Users/consultant/Downloads/SpotiFlyer-main/android/src/main/AndroidManifest.xml:51:9-43
+61        android:label="SpotiFlyer"
+61-->/Users/consultant/Downloads/SpotiFlyer-main/android/src/main/AndroidManifest.xml:54:9-35
+62        android:largeHeap="true"
+62-->/Users/consultant/Downloads/SpotiFlyer-main/android/src/main/AndroidManifest.xml:53:9-33
+63        android:requestLegacyExternalStorage="true"
+63-->/Users/consultant/Downloads/SpotiFlyer-main/android/src/main/AndroidManifest.xml:59:9-52
+64        android:roundIcon="@mipmap/ic_launcher_round"
+64-->/Users/consultant/Downloads/SpotiFlyer-main/android/src/main/AndroidManifest.xml:55:9-54
+65        android:supportsRtl="true"
+65-->/Users/consultant/Downloads/SpotiFlyer-main/android/src/main/AndroidManifest.xml:48:9-35
+66        android:testOnly="true"
+67        android:theme="@style/Theme.AppCompat.Light.NoActionBar"
+67-->/Users/consultant/Downloads/SpotiFlyer-main/android/src/main/AndroidManifest.xml:50:9-65
+68        android:usesCleartextTraffic="true" >
+68-->/Users/consultant/Downloads/SpotiFlyer-main/android/src/main/AndroidManifest.xml:49:9-44
+69        <activity
+69-->/Users/consultant/Downloads/SpotiFlyer-main/android/src/main/AndroidManifest.xml:61:9-70:20
+70            android:name="com.shabinder.spotiflyer.ui.SplashScreenActivity"
+70-->/Users/consultant/Downloads/SpotiFlyer-main/android/src/main/AndroidManifest.xml:62:13-52
+71            android:hardwareAccelerated="true"
+71-->/Users/consultant/Downloads/SpotiFlyer-main/android/src/main/AndroidManifest.xml:64:13-47
+72            android:theme="@style/SplashTheme" >
+72-->/Users/consultant/Downloads/SpotiFlyer-main/android/src/main/AndroidManifest.xml:63:13-47
+73            <intent-filter>
+73-->/Users/consultant/Downloads/SpotiFlyer-main/android/src/main/AndroidManifest.xml:66:13-69:29
+74                <action android:name="android.intent.action.MAIN" />
+74-->/Users/consultant/Downloads/SpotiFlyer-main/android/src/main/AndroidManifest.xml:67:17-69
+74-->/Users/consultant/Downloads/SpotiFlyer-main/android/src/main/AndroidManifest.xml:67:25-66
+75
+76                <category android:name="android.intent.category.LAUNCHER" />
+76-->/Users/consultant/Downloads/SpotiFlyer-main/android/src/main/AndroidManifest.xml:68:17-77
+76-->/Users/consultant/Downloads/SpotiFlyer-main/android/src/main/AndroidManifest.xml:68:27-74
+77            </intent-filter>
+78        </activity>
+79        <activity
+79-->/Users/consultant/Downloads/SpotiFlyer-main/android/src/main/AndroidManifest.xml:72:9-82:20
+80            android:name="com.shabinder.spotiflyer.MainActivity"
+80-->/Users/consultant/Downloads/SpotiFlyer-main/android/src/main/AndroidManifest.xml:72:19-47
+81            android:hardwareAccelerated="true"
+81-->/Users/consultant/Downloads/SpotiFlyer-main/android/src/main/AndroidManifest.xml:74:13-47
+82            android:launchMode="singleTask"
+82-->/Users/consultant/Downloads/SpotiFlyer-main/android/src/main/AndroidManifest.xml:73:13-44
+83            android:theme="@style/Theme.SpotiFlyer" >
+83-->/Users/consultant/Downloads/SpotiFlyer-main/android/src/main/AndroidManifest.xml:75:13-52
+84            <intent-filter>
+84-->/Users/consultant/Downloads/SpotiFlyer-main/android/src/main/AndroidManifest.xml:77:13-81:29
+85                <category android:name="android.intent.category.DEFAULT" />
+85-->/Users/consultant/Downloads/SpotiFlyer-main/android/src/main/AndroidManifest.xml:78:17-76
+85-->/Users/consultant/Downloads/SpotiFlyer-main/android/src/main/AndroidManifest.xml:78:27-73
+86
+87                <action android:name="android.intent.action.SEND" />
+87-->/Users/consultant/Downloads/SpotiFlyer-main/android/src/main/AndroidManifest.xml:79:17-69
+87-->/Users/consultant/Downloads/SpotiFlyer-main/android/src/main/AndroidManifest.xml:79:25-66
+88
+89                <data android:mimeType="text/plain" />
+89-->/Users/consultant/Downloads/SpotiFlyer-main/android/src/main/AndroidManifest.xml:80:17-55
+89-->/Users/consultant/Downloads/SpotiFlyer-main/android/src/main/AndroidManifest.xml:80:23-52
+90            </intent-filter>
+91        </activity>
+92
+93        <service android:name="com.shabinder.spotiflyer.service.ForegroundService" />
+93-->/Users/consultant/Downloads/SpotiFlyer-main/android/src/main/AndroidManifest.xml:84:9-61
+93-->/Users/consultant/Downloads/SpotiFlyer-main/android/src/main/AndroidManifest.xml:84:18-59
+94        <service android:name="org.openudid.OpenUDID_service" >
+94-->/Users/consultant/Downloads/SpotiFlyer-main/android/src/main/AndroidManifest.xml:85:9-90:19
+94-->/Users/consultant/Downloads/SpotiFlyer-main/android/src/main/AndroidManifest.xml:85:18-62
+95            <intent-filter>
+95-->/Users/consultant/Downloads/SpotiFlyer-main/android/src/main/AndroidManifest.xml:87:13-89:29
+96                <action android:name="org.openudid.GETUDID" />
+96-->/Users/consultant/Downloads/SpotiFlyer-main/android/src/main/AndroidManifest.xml:88:17-63
+96-->/Users/consultant/Downloads/SpotiFlyer-main/android/src/main/AndroidManifest.xml:88:25-60
+97            </intent-filter>
+98        </service>
+99
+100        <receiver
+100-->/Users/consultant/Downloads/SpotiFlyer-main/android/src/main/AndroidManifest.xml:92:9-97:20
+101            android:name="ly.count.android.sdk.ReferrerReceiver"
+101-->/Users/consultant/Downloads/SpotiFlyer-main/android/src/main/AndroidManifest.xml:92:19-71
+102            android:exported="true" >
+102-->/Users/consultant/Downloads/SpotiFlyer-main/android/src/main/AndroidManifest.xml:92:72-95
+103            <intent-filter>
+103-->/Users/consultant/Downloads/SpotiFlyer-main/android/src/main/AndroidManifest.xml:94:13-96:29
+104                <action android:name="com.android.vending.INSTALL_REFERRER" />
+104-->/Users/consultant/Downloads/SpotiFlyer-main/android/src/main/AndroidManifest.xml:95:17-79
+104-->/Users/consultant/Downloads/SpotiFlyer-main/android/src/main/AndroidManifest.xml:95:25-76
+105            </intent-filter>
+106        </receiver>
+107
+108        <provider
+108-->[com.russhwolf:multiplatform-settings-no-arg-android-debug:0.7.7] /Users/consultant/.gradle/caches/transforms-3/88cc586e0d167f55213e5bb866a09487/transformed/jetified-multiplatform-settings-no-arg-debug/AndroidManifest.xml:24:9-32:20
+109            android:name="androidx.startup.InitializationProvider"
+109-->[com.russhwolf:multiplatform-settings-no-arg-android-debug:0.7.7] /Users/consultant/.gradle/caches/transforms-3/88cc586e0d167f55213e5bb866a09487/transformed/jetified-multiplatform-settings-no-arg-debug/AndroidManifest.xml:25:13-67
+110            android:authorities="com.shabinder.spotiflyer.androidx-startup"
+110-->[com.russhwolf:multiplatform-settings-no-arg-android-debug:0.7.7] /Users/consultant/.gradle/caches/transforms-3/88cc586e0d167f55213e5bb866a09487/transformed/jetified-multiplatform-settings-no-arg-debug/AndroidManifest.xml:26:13-68
+111            android:exported="false" >
+111-->[com.russhwolf:multiplatform-settings-no-arg-android-debug:0.7.7] /Users/consultant/.gradle/caches/transforms-3/88cc586e0d167f55213e5bb866a09487/transformed/jetified-multiplatform-settings-no-arg-debug/AndroidManifest.xml:27:13-37
+112            <meta-data
+112-->[com.russhwolf:multiplatform-settings-no-arg-android-debug:0.7.7] /Users/consultant/.gradle/caches/transforms-3/88cc586e0d167f55213e5bb866a09487/transformed/jetified-multiplatform-settings-no-arg-debug/AndroidManifest.xml:29:13-31:52
+113                android:name="com.russhwolf.settings.SettingsInitializer"
+113-->[com.russhwolf:multiplatform-settings-no-arg-android-debug:0.7.7] /Users/consultant/.gradle/caches/transforms-3/88cc586e0d167f55213e5bb866a09487/transformed/jetified-multiplatform-settings-no-arg-debug/AndroidManifest.xml:30:17-74
+114                android:value="androidx.startup" />
+114-->[com.russhwolf:multiplatform-settings-no-arg-android-debug:0.7.7] /Users/consultant/.gradle/caches/transforms-3/88cc586e0d167f55213e5bb866a09487/transformed/jetified-multiplatform-settings-no-arg-debug/AndroidManifest.xml:31:17-49
+115            <meta-data
+115-->[androidx.profileinstaller:profileinstaller:1.1.0-rc01] /Users/consultant/.gradle/caches/transforms-3/81950f8903a4fad9da0171f26cefc488/transformed/jetified-profileinstaller-1.1.0-rc01/AndroidManifest.xml:31:13-33:52
+116                android:name="androidx.profileinstaller.ProfileInstallerInitializer"
+116-->[androidx.profileinstaller:profileinstaller:1.1.0-rc01] /Users/consultant/.gradle/caches/transforms-3/81950f8903a4fad9da0171f26cefc488/transformed/jetified-profileinstaller-1.1.0-rc01/AndroidManifest.xml:32:17-85
+117                android:value="androidx.startup" />
+117-->[androidx.profileinstaller:profileinstaller:1.1.0-rc01] /Users/consultant/.gradle/caches/transforms-3/81950f8903a4fad9da0171f26cefc488/transformed/jetified-profileinstaller-1.1.0-rc01/AndroidManifest.xml:33:17-49
+118        </provider>
+119
+120        <service
+120-->[com.squareup.leakcanary:leakcanary-android:2.7] /Users/consultant/.gradle/caches/transforms-3/a6288e7d3a9686a9a7a030d6a9a4440a/transformed/jetified-leakcanary-android-2.7/AndroidManifest.xml:23:9-25:40
+121            android:name="leakcanary.internal.HeapAnalyzerService"
+121-->[com.squareup.leakcanary:leakcanary-android:2.7] /Users/consultant/.gradle/caches/transforms-3/a6288e7d3a9686a9a7a030d6a9a4440a/transformed/jetified-leakcanary-android-2.7/AndroidManifest.xml:24:13-67
+122            android:exported="false" />
+122-->[com.squareup.leakcanary:leakcanary-android:2.7] /Users/consultant/.gradle/caches/transforms-3/a6288e7d3a9686a9a7a030d6a9a4440a/transformed/jetified-leakcanary-android-2.7/AndroidManifest.xml:25:13-37
+123
+124        <uses-library android:name="android.test.runner" />
+124-->[ly.count.android:sdk:20.11.8] /Users/consultant/.gradle/caches/transforms-3/1f92bf98038e55daeae752eab2161b1c/transformed/jetified-sdk-20.11.8/AndroidManifest.xml:18:9-60
+124-->[ly.count.android:sdk:20.11.8] /Users/consultant/.gradle/caches/transforms-3/1f92bf98038e55daeae752eab2161b1c/transformed/jetified-sdk-20.11.8/AndroidManifest.xml:18:23-57
+125
+126        <provider
+126-->[com.squareup.leakcanary:leakcanary-android-core:2.7] /Users/consultant/.gradle/caches/transforms-3/e8209599f75b47b0eaf0c6cb575a7393/transformed/jetified-leakcanary-android-core-2.7/AndroidManifest.xml:29:9-37:20
+127            android:name="leakcanary.internal.LeakCanaryFileProvider"
+127-->[com.squareup.leakcanary:leakcanary-android-core:2.7] /Users/consultant/.gradle/caches/transforms-3/e8209599f75b47b0eaf0c6cb575a7393/transformed/jetified-leakcanary-android-core-2.7/AndroidManifest.xml:30:13-70
+128            android:authorities="com.squareup.leakcanary.fileprovider.com.shabinder.spotiflyer"
+128-->[com.squareup.leakcanary:leakcanary-android-core:2.7] /Users/consultant/.gradle/caches/transforms-3/e8209599f75b47b0eaf0c6cb575a7393/transformed/jetified-leakcanary-android-core-2.7/AndroidManifest.xml:31:13-88
+129            android:exported="false"
+129-->[com.squareup.leakcanary:leakcanary-android-core:2.7] /Users/consultant/.gradle/caches/transforms-3/e8209599f75b47b0eaf0c6cb575a7393/transformed/jetified-leakcanary-android-core-2.7/AndroidManifest.xml:32:13-37
+130            android:grantUriPermissions="true" >
+130-->[com.squareup.leakcanary:leakcanary-android-core:2.7] /Users/consultant/.gradle/caches/transforms-3/e8209599f75b47b0eaf0c6cb575a7393/transformed/jetified-leakcanary-android-core-2.7/AndroidManifest.xml:33:13-47
+131            <meta-data
+131-->[com.squareup.leakcanary:leakcanary-android-core:2.7] /Users/consultant/.gradle/caches/transforms-3/e8209599f75b47b0eaf0c6cb575a7393/transformed/jetified-leakcanary-android-core-2.7/AndroidManifest.xml:34:13-36:66
+132                android:name="android.support.FILE_PROVIDER_PATHS"
+132-->[com.squareup.leakcanary:leakcanary-android-core:2.7] /Users/consultant/.gradle/caches/transforms-3/e8209599f75b47b0eaf0c6cb575a7393/transformed/jetified-leakcanary-android-core-2.7/AndroidManifest.xml:35:17-67
+133                android:resource="@xml/leak_canary_file_paths" />
+133-->[com.squareup.leakcanary:leakcanary-android-core:2.7] /Users/consultant/.gradle/caches/transforms-3/e8209599f75b47b0eaf0c6cb575a7393/transformed/jetified-leakcanary-android-core-2.7/AndroidManifest.xml:36:17-63
+134        </provider>
+135
+136        <activity
+136-->[com.squareup.leakcanary:leakcanary-android-core:2.7] /Users/consultant/.gradle/caches/transforms-3/e8209599f75b47b0eaf0c6cb575a7393/transformed/jetified-leakcanary-android-core-2.7/AndroidManifest.xml:39:9-44:66
+137            android:name="leakcanary.internal.activity.LeakActivity"
+137-->[com.squareup.leakcanary:leakcanary-android-core:2.7] /Users/consultant/.gradle/caches/transforms-3/e8209599f75b47b0eaf0c6cb575a7393/transformed/jetified-leakcanary-android-core-2.7/AndroidManifest.xml:40:13-69
+138            android:icon="@mipmap/leak_canary_icon"
+138-->[com.squareup.leakcanary:leakcanary-android-core:2.7] /Users/consultant/.gradle/caches/transforms-3/e8209599f75b47b0eaf0c6cb575a7393/transformed/jetified-leakcanary-android-core-2.7/AndroidManifest.xml:41:13-52
+139            android:label="@string/leak_canary_display_activity_label"
+139-->[com.squareup.leakcanary:leakcanary-android-core:2.7] /Users/consultant/.gradle/caches/transforms-3/e8209599f75b47b0eaf0c6cb575a7393/transformed/jetified-leakcanary-android-core-2.7/AndroidManifest.xml:42:13-71
+140            android:taskAffinity="com.squareup.leakcanary.com.shabinder.spotiflyer"
+140-->[com.squareup.leakcanary:leakcanary-android-core:2.7] /Users/consultant/.gradle/caches/transforms-3/e8209599f75b47b0eaf0c6cb575a7393/transformed/jetified-leakcanary-android-core-2.7/AndroidManifest.xml:43:13-76
+141            android:theme="@style/leak_canary_LeakCanary.Base" />
+141-->[com.squareup.leakcanary:leakcanary-android-core:2.7] /Users/consultant/.gradle/caches/transforms-3/e8209599f75b47b0eaf0c6cb575a7393/transformed/jetified-leakcanary-android-core-2.7/AndroidManifest.xml:44:13-63
+142
+143        <activity-alias
+143-->[com.squareup.leakcanary:leakcanary-android-core:2.7] /Users/consultant/.gradle/caches/transforms-3/e8209599f75b47b0eaf0c6cb575a7393/transformed/jetified-leakcanary-android-core-2.7/AndroidManifest.xml:46:9-63:26
+144            android:name="leakcanary.internal.activity.LeakLauncherActivity"
+144-->[com.squareup.leakcanary:leakcanary-android-core:2.7] /Users/consultant/.gradle/caches/transforms-3/e8209599f75b47b0eaf0c6cb575a7393/transformed/jetified-leakcanary-android-core-2.7/AndroidManifest.xml:47:13-77
+145            android:banner="@drawable/leak_canary_tv_icon"
+145-->[com.squareup.leakcanary:leakcanary-android-core:2.7] /Users/consultant/.gradle/caches/transforms-3/e8209599f75b47b0eaf0c6cb575a7393/transformed/jetified-leakcanary-android-core-2.7/AndroidManifest.xml:48:13-59
+146            android:enabled="@bool/leak_canary_add_launcher_icon"
+146-->[com.squareup.leakcanary:leakcanary-android-core:2.7] /Users/consultant/.gradle/caches/transforms-3/e8209599f75b47b0eaf0c6cb575a7393/transformed/jetified-leakcanary-android-core-2.7/AndroidManifest.xml:49:13-66
+147            android:exported="true"
+147-->[com.squareup.leakcanary:leakcanary-android-core:2.7] /Users/consultant/.gradle/caches/transforms-3/e8209599f75b47b0eaf0c6cb575a7393/transformed/jetified-leakcanary-android-core-2.7/AndroidManifest.xml:50:13-36
+148            android:icon="@mipmap/leak_canary_icon"
+148-->[com.squareup.leakcanary:leakcanary-android-core:2.7] /Users/consultant/.gradle/caches/transforms-3/e8209599f75b47b0eaf0c6cb575a7393/transformed/jetified-leakcanary-android-core-2.7/AndroidManifest.xml:51:13-52
+149            android:label="@string/leak_canary_display_activity_label"
+149-->[com.squareup.leakcanary:leakcanary-android-core:2.7] /Users/consultant/.gradle/caches/transforms-3/e8209599f75b47b0eaf0c6cb575a7393/transformed/jetified-leakcanary-android-core-2.7/AndroidManifest.xml:52:13-71
+150            android:targetActivity="leakcanary.internal.activity.LeakActivity"
+150-->[com.squareup.leakcanary:leakcanary-android-core:2.7] /Users/consultant/.gradle/caches/transforms-3/e8209599f75b47b0eaf0c6cb575a7393/transformed/jetified-leakcanary-android-core-2.7/AndroidManifest.xml:53:13-79
+151            android:taskAffinity="com.squareup.leakcanary.com.shabinder.spotiflyer"
+151-->[com.squareup.leakcanary:leakcanary-android-core:2.7] /Users/consultant/.gradle/caches/transforms-3/e8209599f75b47b0eaf0c6cb575a7393/transformed/jetified-leakcanary-android-core-2.7/AndroidManifest.xml:54:13-76
+152            android:theme="@style/leak_canary_LeakCanary.Base" >
+152-->[com.squareup.leakcanary:leakcanary-android-core:2.7] /Users/consultant/.gradle/caches/transforms-3/e8209599f75b47b0eaf0c6cb575a7393/transformed/jetified-leakcanary-android-core-2.7/AndroidManifest.xml:55:13-63
+153            <intent-filter>
+153-->[com.squareup.leakcanary:leakcanary-android-core:2.7] /Users/consultant/.gradle/caches/transforms-3/e8209599f75b47b0eaf0c6cb575a7393/transformed/jetified-leakcanary-android-core-2.7/AndroidManifest.xml:56:13-62:29
+154                <action android:name="android.intent.action.MAIN" />
+154-->/Users/consultant/Downloads/SpotiFlyer-main/android/src/main/AndroidManifest.xml:67:17-69
+154-->/Users/consultant/Downloads/SpotiFlyer-main/android/src/main/AndroidManifest.xml:67:25-66
+155
+156                <category android:name="android.intent.category.LAUNCHER" />
+156-->/Users/consultant/Downloads/SpotiFlyer-main/android/src/main/AndroidManifest.xml:68:17-77
+156-->/Users/consultant/Downloads/SpotiFlyer-main/android/src/main/AndroidManifest.xml:68:27-74
+157                <!-- Android TV launcher intent -->
+158                <category android:name="android.intent.category.LEANBACK_LAUNCHER" />
+158-->[com.squareup.leakcanary:leakcanary-android-core:2.7] /Users/consultant/.gradle/caches/transforms-3/e8209599f75b47b0eaf0c6cb575a7393/transformed/jetified-leakcanary-android-core-2.7/AndroidManifest.xml:61:17-86
+158-->[com.squareup.leakcanary:leakcanary-android-core:2.7] /Users/consultant/.gradle/caches/transforms-3/e8209599f75b47b0eaf0c6cb575a7393/transformed/jetified-leakcanary-android-core-2.7/AndroidManifest.xml:61:27-83
+159            </intent-filter>
+160        </activity-alias>
+161
+162        <activity
+162-->[com.squareup.leakcanary:leakcanary-android-core:2.7] /Users/consultant/.gradle/caches/transforms-3/e8209599f75b47b0eaf0c6cb575a7393/transformed/jetified-leakcanary-android-core-2.7/AndroidManifest.xml:65:9-71:68
+163            android:name="leakcanary.internal.RequestStoragePermissionActivity"
+163-->[com.squareup.leakcanary:leakcanary-android-core:2.7] /Users/consultant/.gradle/caches/transforms-3/e8209599f75b47b0eaf0c6cb575a7393/transformed/jetified-leakcanary-android-core-2.7/AndroidManifest.xml:66:13-80
+164            android:excludeFromRecents="true"
+164-->[com.squareup.leakcanary:leakcanary-android-core:2.7] /Users/consultant/.gradle/caches/transforms-3/e8209599f75b47b0eaf0c6cb575a7393/transformed/jetified-leakcanary-android-core-2.7/AndroidManifest.xml:67:13-46
+165            android:icon="@mipmap/leak_canary_icon"
+165-->[com.squareup.leakcanary:leakcanary-android-core:2.7] /Users/consultant/.gradle/caches/transforms-3/e8209599f75b47b0eaf0c6cb575a7393/transformed/jetified-leakcanary-android-core-2.7/AndroidManifest.xml:68:13-52
+166            android:label="@string/leak_canary_storage_permission_activity_label"
+166-->[com.squareup.leakcanary:leakcanary-android-core:2.7] /Users/consultant/.gradle/caches/transforms-3/e8209599f75b47b0eaf0c6cb575a7393/transformed/jetified-leakcanary-android-core-2.7/AndroidManifest.xml:69:13-82
+167            android:taskAffinity="com.squareup.leakcanary.com.shabinder.spotiflyer"
+167-->[com.squareup.leakcanary:leakcanary-android-core:2.7] /Users/consultant/.gradle/caches/transforms-3/e8209599f75b47b0eaf0c6cb575a7393/transformed/jetified-leakcanary-android-core-2.7/AndroidManifest.xml:70:13-76
+168            android:theme="@style/leak_canary_Theme.Transparent" />
+168-->[com.squareup.leakcanary:leakcanary-android-core:2.7] /Users/consultant/.gradle/caches/transforms-3/e8209599f75b47b0eaf0c6cb575a7393/transformed/jetified-leakcanary-android-core-2.7/AndroidManifest.xml:71:13-65
+169
+170        <receiver android:name="leakcanary.internal.NotificationReceiver" />
+170-->[com.squareup.leakcanary:leakcanary-android-core:2.7] /Users/consultant/.gradle/caches/transforms-3/e8209599f75b47b0eaf0c6cb575a7393/transformed/jetified-leakcanary-android-core-2.7/AndroidManifest.xml:73:9-77
+170-->[com.squareup.leakcanary:leakcanary-android-core:2.7] /Users/consultant/.gradle/caches/transforms-3/e8209599f75b47b0eaf0c6cb575a7393/transformed/jetified-leakcanary-android-core-2.7/AndroidManifest.xml:73:19-74
+171
+172        <provider
+172-->[com.squareup.leakcanary:leakcanary-object-watcher-android:2.7] /Users/consultant/.gradle/caches/transforms-3/e881d160f8ebcc6eb8edc5788e89d6ad/transformed/jetified-leakcanary-object-watcher-android-2.7/AndroidManifest.xml:8:9-12:40
+173            android:name="leakcanary.internal.AppWatcherInstaller$MainProcess"
+173-->[com.squareup.leakcanary:leakcanary-object-watcher-android:2.7] /Users/consultant/.gradle/caches/transforms-3/e881d160f8ebcc6eb8edc5788e89d6ad/transformed/jetified-leakcanary-object-watcher-android-2.7/AndroidManifest.xml:9:13-79
+174            android:authorities="com.shabinder.spotiflyer.leakcanary-installer"
+174-->[com.squareup.leakcanary:leakcanary-object-watcher-android:2.7] /Users/consultant/.gradle/caches/transforms-3/e881d160f8ebcc6eb8edc5788e89d6ad/transformed/jetified-leakcanary-object-watcher-android-2.7/AndroidManifest.xml:10:13-72
+175            android:enabled="@bool/leak_canary_watcher_auto_install"
+175-->[com.squareup.leakcanary:leakcanary-object-watcher-android:2.7] /Users/consultant/.gradle/caches/transforms-3/e881d160f8ebcc6eb8edc5788e89d6ad/transformed/jetified-leakcanary-object-watcher-android-2.7/AndroidManifest.xml:11:13-69
+176            android:exported="false" />
+176-->[com.squareup.leakcanary:leakcanary-object-watcher-android:2.7] /Users/consultant/.gradle/caches/transforms-3/e881d160f8ebcc6eb8edc5788e89d6ad/transformed/jetified-leakcanary-object-watcher-android-2.7/AndroidManifest.xml:12:13-37
+177        <provider
+177-->[com.squareup.leakcanary:plumber-android:2.7] /Users/consultant/.gradle/caches/transforms-3/f12f7fc057148b27fdde33cfd24a5982/transformed/jetified-plumber-android-2.7/AndroidManifest.xml:8:9-12:40
+178            android:name="leakcanary.internal.PlumberInstaller"
+178-->[com.squareup.leakcanary:plumber-android:2.7] /Users/consultant/.gradle/caches/transforms-3/f12f7fc057148b27fdde33cfd24a5982/transformed/jetified-plumber-android-2.7/AndroidManifest.xml:9:13-64
+179            android:authorities="com.shabinder.spotiflyer.plumber-installer"
+179-->[com.squareup.leakcanary:plumber-android:2.7] /Users/consultant/.gradle/caches/transforms-3/f12f7fc057148b27fdde33cfd24a5982/transformed/jetified-plumber-android-2.7/AndroidManifest.xml:10:13-69
+180            android:enabled="@bool/leak_canary_plumber_auto_install"
+180-->[com.squareup.leakcanary:plumber-android:2.7] /Users/consultant/.gradle/caches/transforms-3/f12f7fc057148b27fdde33cfd24a5982/transformed/jetified-plumber-android-2.7/AndroidManifest.xml:11:13-69
+181            android:exported="false" />
+181-->[com.squareup.leakcanary:plumber-android:2.7] /Users/consultant/.gradle/caches/transforms-3/f12f7fc057148b27fdde33cfd24a5982/transformed/jetified-plumber-android-2.7/AndroidManifest.xml:12:13-37
+182
+183        <receiver
+183-->[androidx.profileinstaller:profileinstaller:1.1.0-rc01] /Users/consultant/.gradle/caches/transforms-3/81950f8903a4fad9da0171f26cefc488/transformed/jetified-profileinstaller-1.1.0-rc01/AndroidManifest.xml:36:9-45:20
+184            android:name="androidx.profileinstaller.ProfileInstallReceiver"
+184-->[androidx.profileinstaller:profileinstaller:1.1.0-rc01] /Users/consultant/.gradle/caches/transforms-3/81950f8903a4fad9da0171f26cefc488/transformed/jetified-profileinstaller-1.1.0-rc01/AndroidManifest.xml:37:13-76
+185            android:directBootAware="false"
+185-->[androidx.profileinstaller:profileinstaller:1.1.0-rc01] /Users/consultant/.gradle/caches/transforms-3/81950f8903a4fad9da0171f26cefc488/transformed/jetified-profileinstaller-1.1.0-rc01/AndroidManifest.xml:38:13-44
+186            android:enabled="true"
+186-->[androidx.profileinstaller:profileinstaller:1.1.0-rc01] /Users/consultant/.gradle/caches/transforms-3/81950f8903a4fad9da0171f26cefc488/transformed/jetified-profileinstaller-1.1.0-rc01/AndroidManifest.xml:39:13-35
+187            android:exported="true"
+187-->[androidx.profileinstaller:profileinstaller:1.1.0-rc01] /Users/consultant/.gradle/caches/transforms-3/81950f8903a4fad9da0171f26cefc488/transformed/jetified-profileinstaller-1.1.0-rc01/AndroidManifest.xml:40:13-36
+188            android:permission="android.permission.DUMP" >
+188-->[androidx.profileinstaller:profileinstaller:1.1.0-rc01] /Users/consultant/.gradle/caches/transforms-3/81950f8903a4fad9da0171f26cefc488/transformed/jetified-profileinstaller-1.1.0-rc01/AndroidManifest.xml:41:13-57
+189            <intent-filter>
+189-->[androidx.profileinstaller:profileinstaller:1.1.0-rc01] /Users/consultant/.gradle/caches/transforms-3/81950f8903a4fad9da0171f26cefc488/transformed/jetified-profileinstaller-1.1.0-rc01/AndroidManifest.xml:42:13-44:29
+190                <action android:name="androidx.profileinstaller.action.INSTALL_PROFILE" />
+190-->[androidx.profileinstaller:profileinstaller:1.1.0-rc01] /Users/consultant/.gradle/caches/transforms-3/81950f8903a4fad9da0171f26cefc488/transformed/jetified-profileinstaller-1.1.0-rc01/AndroidManifest.xml:43:17-91
+190-->[androidx.profileinstaller:profileinstaller:1.1.0-rc01] /Users/consultant/.gradle/caches/transforms-3/81950f8903a4fad9da0171f26cefc488/transformed/jetified-profileinstaller-1.1.0-rc01/AndroidManifest.xml:43:25-88
+191            </intent-filter>
+192        </receiver>
+193    </application>
+194
+195</manifest>

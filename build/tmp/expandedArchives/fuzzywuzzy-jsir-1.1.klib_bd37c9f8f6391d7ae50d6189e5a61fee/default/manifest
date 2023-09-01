@@ -1,0 +1,7 @@
+builtins_platform=JS
+unique_name=io.github.shabinder\:fuzzywuzzy
+compiler_version=1.4.32
+depends=kotlin
+abi_version=1.4.2
+metadata_version=1.4.1
+ir_version=1.0.0

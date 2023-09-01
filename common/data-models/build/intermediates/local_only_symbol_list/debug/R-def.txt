@@ -1,0 +1,34 @@
+R_DEF: Internal format may change without notice
+local
+drawable ic_arrow
+drawable ic_download_arrow
+drawable ic_error
+drawable ic_gaana
+drawable ic_github
+drawable ic_heart
+drawable ic_indian_rupee
+drawable ic_instagram
+drawable ic_jio_saavn_logo
+drawable ic_linkedin
+drawable ic_mug
+drawable ic_musicplaceholder
+drawable ic_opencollective_icon
+drawable ic_paypal_logo
+drawable ic_refreshgradient
+drawable ic_round_cancel_24
+drawable ic_share_open
+drawable ic_song_placeholder
+drawable ic_soundcloud
+drawable ic_spotiflyer_logo
+drawable ic_spotify_logo
+drawable ic_tick
+drawable ic_youtube
+drawable ic_youtube_music_logo
+drawable jio_saavn
+drawable music
+drawable spotiflyer
+font montserrat_light
+font montserrat_medium
+font montserrat_regular
+font montserrat_semibold
+font pristine_script

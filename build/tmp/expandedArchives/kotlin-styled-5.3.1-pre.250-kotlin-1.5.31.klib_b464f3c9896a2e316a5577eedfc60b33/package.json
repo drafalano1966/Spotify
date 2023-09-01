@@ -1,0 +1,15 @@
+{
+  "name": "kotlin-wrappers-kotlin-styled-js-ir",
+  "version": "5.3.1-pre.250-kotlin-1.5.31",
+  "main": "kotlin-wrappers-kotlin-styled-js-ir.js",
+  "types": "kotlin-wrappers-kotlin-styled-js-ir.d.ts",
+  "devDependencies": {},
+  "dependencies": {
+    "css-in-js-utils": "^3.1.0",
+    "inline-style-prefixer": "^6.0.0",
+    "styled-components": "^5.3.1"
+  },
+  "peerDependencies": {},
+  "optionalDependencies": {},
+  "bundledDependencies": []
+}

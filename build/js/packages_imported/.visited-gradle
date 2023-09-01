@@ -1,0 +1,385 @@
+{
+  "version": "9",
+  "items": {
+    "967e4b7bde5c6d8578e6401105d49ae0": {
+      "src": "/Users/consultant/.gradle/caches/modules-2/files-2.1/co.touchlab/stately-common-js/1.2.1/c3f7f8f3a4b09396070d08a9763a8a3c5b064d50/stately-common-jslegacy-1.2.1.jar",
+      "target": "Stately-stately-common-js-legacy/1.2.1"
+    },
+    "ed032da5c8a8aa561a34ad2ce16c6fef": {
+      "src": "/Users/consultant/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib-js/1.6.10/c5ec19c0cb2291017562f852321b4cfcc8064150/kotlin-stdlib-js-1.6.10.jar",
+      "target": "kotlin/1.6.10"
+    },
+    "eb99eba8e3875878ac955c380a5f6ac2": {
+      "src": "/Users/consultant/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib-common/1.6.10/c118700e3a33c8a0d9adc920e9dec0831171925/kotlin-stdlib-common-1.6.10.jar"
+    },
+    "7b2f7dc2c8a5d34882cd89a69c176f5f": {
+      "src": "/Users/consultant/.gradle/caches/modules-2/files-2.1/co.touchlab/stately-concurrency-js/1.2.1/7f102ef5b0e3a23b5d991258f1252f1d7ba9a7db/stately-concurrency-jslegacy-1.2.1.jar",
+      "target": "Stately-stately-concurrency-js-legacy/1.2.1"
+    },
+    "678dce73b2011219e0b9cffe9d3e7a9c": {
+      "src": "/Users/consultant/.gradle/caches/modules-2/files-2.1/co.touchlab/stately-isolate-js/1.2.1/5ea5ace1c8bdbf8b69492e68592b8caf3eb36883/stately-isolate-jslegacy-1.2.1.jar",
+      "target": "Stately-stately-isolate-js-legacy/1.2.1"
+    },
+    "917bef1131e7e5778bc61ba5a6809eb0": {
+      "src": "/Users/consultant/.gradle/caches/modules-2/files-2.1/co.touchlab/stately-iso-collections-js/1.2.1/fe26f26dbe759aa3873037744d7c555b84512025/stately-iso-collections-jslegacy-1.2.1.jar",
+      "target": "Stately-stately-iso-collections-js-legacy/1.2.1"
+    },
+    "70c653ca83af68954198184ba026350b": {
+      "src": "/Users/consultant/.gradle/caches/modules-2/files-2.1/de.comahe.i18n4k/i18n4k-core-js/0.1.3/e66ee1bf378828831f4327fc3e38c678f3f0618c/i18n4k-core-jslegacy-0.1.3.jar",
+      "target": "i18n4k-i18n4k-core-jsLegacy/0.1.3"
+    },
+    "fa7081941f125a84ef11565d63816ddc": {
+      "src": "/Users/consultant/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlinx/atomicfu-js/0.17.0/297fbbfac824ecb38bd4d58cf95557d07b6fa813/atomicfu-jslegacy-0.17.0.jar",
+      "target": "kotlinx-atomicfu/0.17.0"
+    },
+    "4ddf4859c3d92073ce21369906520b73": {
+      "src": "/Users/consultant/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlinx/kotlinx-collections-immutable-js/0.3.3/85e921b3cbfbfa2ff3a76ba587099dc40c6a1e2f/kotlinx-collections-immutable-jslegacy-0.3.3.jar",
+      "target": "Kotlin-Immutable-Collections-kotlinx-collections-immutable-jsLegacy/0.3.3"
+    },
+    "ac2ee02caa5f6facd87d1a6adfdc2e02": {
+      "src": "/Users/consultant/.gradle/caches/modules-2/files-2.1/co.touchlab/kermit-js/0.1.9/62357fd94e630ff89330b8ed30c8023cb57438ea/kermit-jslegacy-0.1.9.jar",
+      "target": "s-kermit-js-legacy/0.1.9"
+    },
+    "5a888b89dd69d251814d91688fd01af0": {
+      "src": "/Users/consultant/.gradle/caches/modules-2/files-2.1/dev.icerock.moko/parcelize-js/0.7.1/a52239f2954663a594c72ec503ef00490f266cf/parcelize-jslegacy-0.7.1.jar",
+      "target": "moko-parcelize-parcelize-js-legacy/0.7.1"
+    },
+    "4f7d4b5c68ac818a2e0a03632eb6581d": {
+      "src": "/Users/consultant/.gradle/caches/modules-2/files-2.1/io.ktor/ktor-client-core-js/1.6.7/3b5223eeb5d69b99fde4152f498f16bfa2e0dfbd/ktor-client-core-jslegacy-1.6.7.jar",
+      "target": "ktor-ktor-client-core-js-legacy/1.6.7"
+    },
+    "65b0563d227fb89ec2b9ac92787c4871": {
+      "src": "/Users/consultant/.gradle/caches/modules-2/files-2.1/io.ktor/ktor-http-cio-js/1.6.7/a483d6a4bdb2e9d9f8715ee02fcaeae5ab925bc5/ktor-http-cio-jslegacy-1.6.7.jar",
+      "target": "ktor-ktor-http-cio-js-legacy/1.6.7"
+    },
+    "14e9940a97f933967fe0ed8ba7dd5769": {
+      "src": "/Users/consultant/.gradle/caches/modules-2/files-2.1/io.ktor/ktor-http-js/1.6.7/86d998957eb1609d2fc0183f8976f2c1fd18830b/ktor-http-jslegacy-1.6.7.jar",
+      "target": "ktor-ktor-http-js-legacy/1.6.7"
+    },
+    "ebc9386f2bb010b896ab0982940c9d9e": {
+      "src": "/Users/consultant/.gradle/caches/modules-2/files-2.1/io.ktor/ktor-utils-js/1.6.7/6b80610e7ff7a51184d04e8c4da415ac46c8d77c/ktor-utils-jslegacy-1.6.7.jar",
+      "target": "ktor-ktor-utils-js-legacy/1.6.7"
+    },
+    "bd318da27a39042cc6e28ba96a079488": {
+      "src": "/Users/consultant/.gradle/caches/modules-2/files-2.1/io.ktor/ktor-io-js/1.6.7/fb747c1742a8a04e20504f77d16eca469faa263/ktor-io-jslegacy-1.6.7.jar",
+      "target": "ktor-ktor-io-js-legacy/1.6.7"
+    },
+    "515f7489e4154923cb95c6bc4f6007dd": {
+      "src": "/Users/consultant/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlinx/kotlinx-coroutines-core-js/1.6.0/5dce2abceb80bd939e8fabb14c29adf7ed5cd1bd/kotlinx-coroutines-core-jslegacy-1.6.0.jar",
+      "target": "kotlinx-coroutines-core/1.6.0"
+    },
+    "a32e3e860fd339b97e94a663165074fc": {
+      "src": "/Users/consultant/.gradle/caches/modules-2/files-2.1/io.ktor/ktor-client-json-js/1.6.7/d96569b5f920a2d2280f67d92b870468ccb2163f/ktor-client-json-jslegacy-1.6.7.jar",
+      "target": "ktor-ktor-client-json-js-legacy/1.6.7"
+    },
+    "fd9c0e1246679687216c3ab3c51655d3": {
+      "src": "/Users/consultant/.gradle/caches/modules-2/files-2.1/io.ktor/ktor-client-auth-js/1.6.7/6db0e203c1117bd022351c5d0e6dd173eb19ecc1/ktor-client-auth-jslegacy-1.6.7.jar",
+      "target": "ktor-ktor-client-auth-js-legacy/1.6.7"
+    },
+    "d16f0e42031cb867306e38ac0b482b00": {
+      "src": "/Users/consultant/.gradle/caches/modules-2/files-2.1/io.ktor/ktor-client-logging-js/1.6.7/1a71cfcd084528a92be5e822bd778c07b275cf9e/ktor-client-logging-jslegacy-1.6.7.jar",
+      "target": "ktor-ktor-client-logging-js-legacy/1.6.7"
+    },
+    "484d53219122885ef14d4d5986846d06": {
+      "src": "/Users/consultant/.gradle/caches/modules-2/files-2.1/io.ktor/ktor-client-serialization-js/1.6.7/2ec354a502cca4c4980dab2ee4e58eb29237958/ktor-client-serialization-jslegacy-1.6.7.jar",
+      "target": "ktor-ktor-client-serialization-js-legacy/1.6.7"
+    },
+    "4a0fca3adbb48ac7c24186953e8769d3": {
+      "src": "/Users/consultant/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlinx/kotlinx-serialization-json-js/1.3.1/392d1d4a242a432c28e9bcf772682c420fbb5a2b/kotlinx-serialization-json-jslegacy-1.3.1.jar",
+      "target": "kotlinx-serialization-kotlinx-serialization-json-js-legacy/1.3.1"
+    },
+    "8c6f1b86938387ea06014e3dac9b3939": {
+      "src": "/Users/consultant/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlinx/kotlinx-serialization-core-js/1.3.1/cb5458c48056ef8de1f60feb4213d7a61f5cc87c/kotlinx-serialization-core-jslegacy-1.3.1.jar",
+      "target": "kotlinx-serialization-kotlinx-serialization-core-js-legacy/1.3.1"
+    },
+    "39ea2fc35218952562e64c1a788af12f": {
+      "src": "/Users/consultant/.gradle/caches/modules-2/files-2.1/com.arkivanov.mvikotlin/mvikotlin-js/3.0.0-alpha03/6c0c1a2159b06db4ddd39488abcfb7813a5c770e/mvikotlin-jslegacy-3.0.0-alpha03.jar",
+      "target": "MVIKotlin-mvikotlin-js-legacy/3.0.0-alpha03"
+    },
+    "696e212f8b202970b9a8551a6f82df52": {
+      "src": "/Users/consultant/.gradle/caches/modules-2/files-2.1/com.arkivanov.essenty/lifecycle-js/0.2.2/d3dde9626772e6339bae2a6569818f35bf3682e9/lifecycle-jslegacy-0.2.2.jar",
+      "target": "Essenty-lifecycle-js-legacy/0.2.2"
+    },
+    "838d29fe6e674568a0e6b3056294611e": {
+      "src": "/Users/consultant/.gradle/caches/modules-2/files-2.1/com.arkivanov.essenty/utils-internal-js/0.2.2/2a885ab2e22a7f8ee0bc178d35f2b97e82e48d9/utils-internal-jslegacy-0.2.2.jar",
+      "target": "Essenty-utils-internal-js-legacy/0.2.2"
+    },
+    "1e63b1aa1f4ba05a028fedf3ca643f3f": {
+      "src": "/Users/consultant/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib/1.6.10/b8af3fe6f1ca88526914929add63cf5e7c5049af/kotlin-stdlib-1.6.10.jar"
+    },
+    "72ac29dee68b63d11710f49a42861308": {
+      "src": "/Users/consultant/.gradle/caches/modules-2/files-2.1/org.jetbrains/annotations/13.0/919f0dfe192fb4e063e7dacadee7f8bb9a2672a9/annotations-13.0.jar"
+    },
+    "6618bc1815cdfa472a5182bd33456e12": {
+      "src": "/Users/consultant/.gradle/caches/modules-2/files-2.1/com.arkivanov.essenty/instance-keeper-js/0.2.2/592c3525fe2cab66e8e226be40a21f17470aa650/instance-keeper-jslegacy-0.2.2.jar",
+      "target": "Essenty-instance-keeper-js-legacy/0.2.2"
+    },
+    "2e65b0d3793f63c698bc22d47888c7dd": {
+      "src": "/Users/consultant/.gradle/caches/modules-2/files-2.1/com.arkivanov.mvikotlin/rx-internal-js/3.0.0-alpha03/cf38e63d47cd268d0055cd03b6382d3100864666/rx-internal-jslegacy-3.0.0-alpha03.jar",
+      "target": "MVIKotlin-rx-internal-js-legacy/3.0.0-alpha03"
+    },
+    "4d9b4b85e6d0150100bcb7df45ab8bbd": {
+      "src": "/Users/consultant/.gradle/caches/modules-2/files-2.1/com.arkivanov.mvikotlin/utils-internal-js/3.0.0-alpha03/8f663cc3a8c0eb70e567769ce4c522000bdb9fdf/utils-internal-jslegacy-3.0.0-alpha03.jar",
+      "target": "MVIKotlin-utils-internal-js-legacy/3.0.0-alpha03"
+    },
+    "b75eb35a932a5096ae0ed7160df4456c": {
+      "src": "/Users/consultant/.gradle/caches/modules-2/files-2.1/com.arkivanov.mvikotlin/rx-js/3.0.0-alpha03/bc2aa0a52c386d5c1cd72fd623a27b528386626f/rx-jslegacy-3.0.0-alpha03.jar",
+      "target": "MVIKotlin-rx-js-legacy/3.0.0-alpha03"
+    },
+    "c370da498396d70ba7ac7f874523b7e3": {
+      "src": "/Users/consultant/.gradle/caches/modules-2/files-2.1/com.arkivanov.mvikotlin/mvikotlin-main-js/3.0.0-alpha03/e60b191758704eaf9b9fd6743000bcdb4d6253ca/mvikotlin-main-jslegacy-3.0.0-alpha03.jar",
+      "target": "MVIKotlin-mvikotlin-main-js-legacy/3.0.0-alpha03"
+    },
+    "5d9c4fc6519780149757187c1af6702f": {
+      "src": "/Users/consultant/.gradle/caches/modules-2/files-2.1/com.arkivanov.mvikotlin/mvikotlin-extensions-coroutines-js/3.0.0-alpha03/9d9ac0978719b703bbcd131ed9cce58dd3ada4e3/mvikotlin-extensions-coroutines-jslegacy-3.0.0-alpha03.jar",
+      "target": "MVIKotlin-mvikotlin-extensions-coroutines-js-legacy/3.0.0-alpha03"
+    },
+    "6368ad5690b6f231920c5a449c3bbb44": {
+      "src": "/Users/consultant/.gradle/caches/modules-2/files-2.1/com.arkivanov.mvikotlin/mvikotlin-logging-js/3.0.0-alpha03/e048c92464ded1eb5113acfac127aa32e31bab1c/mvikotlin-logging-jslegacy-3.0.0-alpha03.jar",
+      "target": "MVIKotlin-mvikotlin-logging-js-legacy/3.0.0-alpha03"
+    },
+    "5a79783b2a8a8f018c971e255e34dec9": {
+      "src": "/Users/consultant/.gradle/caches/modules-2/files-2.1/com.arkivanov.mvikotlin/mvikotlin-timetravel-js/3.0.0-alpha03/7f29950d20be865ac0ebd447dc843d704d988a75/mvikotlin-timetravel-jslegacy-3.0.0-alpha03.jar",
+      "target": "MVIKotlin-mvikotlin-timetravel-js-legacy/3.0.0-alpha03"
+    },
+    "f0f4e410a16fee3bdf75951ba6aaeaf7": {
+      "src": "/Users/consultant/.gradle/caches/modules-2/files-2.1/com.arkivanov.mvikotlin/mvikotlin-timetravel-proto-internal-js/3.0.0-alpha03/a0889cbe210c2d1d9f846f9bcc9a7a4bff579b23/mvikotlin-timetravel-proto-internal-jslegacy-3.0.0-alpha03.jar",
+      "target": "MVIKotlin-mvikotlin-timetravel-proto-internal-js-legacy/3.0.0-alpha03"
+    },
+    "770b8ec0e28b0abd891fc9b606bd6b74": {
+      "src": "/Users/consultant/.gradle/caches/modules-2/files-2.1/com.arkivanov.decompose/decompose-js/0.5.0/76ddf2d60fbd23fcbe1ab3c829fdf3eac2a1111a/decompose-jslegacy-0.5.0.jar",
+      "target": "Decompose-decompose-js-legacy/0.5.0"
+    },
+    "8d3cc69f16063519af9df5bf7a1cb48b": {
+      "src": "/Users/consultant/.gradle/caches/modules-2/files-2.1/com.arkivanov.essenty/state-keeper-js/0.2.2/65ab54d3e01105181bc6b8d5c400ff6e9b1082c4/state-keeper-jslegacy-0.2.2.jar",
+      "target": "Essenty-state-keeper-js-legacy/0.2.2"
+    },
+    "b2f6c440e6fce6d6b0fcfef2a2741af4": {
+      "src": "/Users/consultant/.gradle/caches/modules-2/files-2.1/com.arkivanov.essenty/parcelable-js/0.2.2/b8a49b852388a89efd47d3bfccbe4ef802d2d852/parcelable-jslegacy-0.2.2.jar",
+      "target": "Essenty-parcelable-js-legacy/0.2.2"
+    },
+    "2842ea94f48bc19435cd4645f6204c9f": {
+      "src": "/Users/consultant/.gradle/caches/modules-2/files-2.1/com.arkivanov.essenty/back-pressed-js/0.2.2/1b29750c7cf118b17273807cf19962c7b99a5ccb/back-pressed-jslegacy-0.2.2.jar",
+      "target": "Essenty-back-pressed-js-legacy/0.2.2"
+    },
+    "6899b517bdbd6158b9c4f5d13d207c78": {
+      "src": "/Users/consultant/.gradle/caches/modules-2/files-2.1/io.insert-koin/koin-core-js/3.1.2/5a4a0cd119c10a1655fbecf0b199fe33cb74915e/koin-core-jslegacy-3.1.2.jar",
+      "target": "core-koin-core-js-legacy/3.1.2"
+    },
+    "fd04d5e9f7ba1befc57e22d1c67816dd": {
+      "src": "/Users/consultant/.gradle/caches/modules-2/files-2.1/io.github.shabinder/youtube-api-dl-js/1.4/fa923cdf980bdd2639ba7b87f72d8b737e358e7c/youtube-api-dl-jslegacy-1.4.jar",
+      "target": "youtube-api-dl-js-legacy/1.4.0"
+    },
+    "f9c46c523237feaf8ce68f9c19c7785a": {
+      "src": "/Users/consultant/.gradle/caches/modules-2/files-2.1/io.ktor/ktor-client-js/1.6.7/87f87ef8363fbc3fedd6c80b7e493dc84260ca42/ktor-client-js-jslegacy-1.6.7.jar",
+      "target": "ktor-ktor-client-js-js-legacy/1.6.7"
+    },
+    "337ff817e087aded273dfc9ba494baf4": {
+      "src": "/Users/consultant/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-test-js-runner/1.6.10/20ef83e15f8c2cde090f3bfd8c1eba72947f7ab8/kotlin-test-js-runner-1.6.10.jar",
+      "target": "kotlin-test-js-runner/1.6.10"
+    },
+    "fcd62bcdff404b8751a46a32a04ffe15": {
+      "src": "/Users/consultant/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-test-js/1.6.10/bb40521e101f15c6a9e86be85e0fae5f2349beb3/kotlin-test-js-1.6.10.jar",
+      "target": "kotlin-test/1.6.10"
+    },
+    "f1dd5d5f056eb5b51795f8e8e92e0344": {
+      "src": "/Users/consultant/.gradle/caches/modules-2/files-2.1/co.touchlab/stately-common-js/1.2.1/6557facee0174870e83ef354833903dd49601e29/stately-common-jsir-1.2.1.klib"
+    },
+    "d164067014ed47b6df00fb0455306071": {
+      "src": "/Users/consultant/.gradle/caches/modules-2/files-2.1/co.touchlab/stately-concurrency-js/1.2.1/ffa92dc683db7c4253b2cf671b9489c4f10756ac/stately-concurrency-jsir-1.2.1.klib"
+    },
+    "5bab510848037f105488b5a677de292f": {
+      "src": "/Users/consultant/.gradle/caches/modules-2/files-2.1/co.touchlab/stately-isolate-js/1.2.1/4fe5a7b5fccc0729fa97b14a0c34d016e27edfc3/stately-isolate-jsir-1.2.1.klib"
+    },
+    "42f88156debf8d017d81c6c9df9619af": {
+      "src": "/Users/consultant/.gradle/caches/modules-2/files-2.1/co.touchlab/stately-iso-collections-js/1.2.1/bb0ab8ecf80bb514a8c0529a0314ddd78d23db37/stately-iso-collections-jsir-1.2.1.klib"
+    },
+    "67ae00c0e66ad64aebf0aa2602e35bcd": {
+      "src": "/Users/consultant/.gradle/caches/modules-2/files-2.1/de.comahe.i18n4k/i18n4k-core-js/0.1.3/1208eeff6901886e0986f61543d8eff5cba78b82/i18n4k-core-jsir-0.1.3.klib"
+    },
+    "e46d8b3aba39c2bdb33988de4abd5226": {
+      "src": "/Users/consultant/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlinx/atomicfu-js/0.17.0/58d57419f8fd338452b27dc78e983faa507ec34e/atomicfu-jsir-0.17.0.klib"
+    },
+    "0569aee0352c73a45cffe241bc3a53d3": {
+      "src": "/Users/consultant/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlinx/kotlinx-collections-immutable-js/0.3.3/ef57c85ed91cb63a50fda732c3fb6e9a5610ef95/kotlinx-collections-immutable-jsir-0.3.3.klib"
+    },
+    "a1866827d58a258bc7c3d3ba2c6a9ca9": {
+      "src": "/Users/consultant/.gradle/caches/modules-2/files-2.1/co.touchlab/kermit-js/0.1.9/1d95522a734003742ac5cf9695834981a36fb132/kermit-jsir-0.1.9.klib"
+    },
+    "17d0f36e8c45da8324698b5ec03e0470": {
+      "src": "/Users/consultant/.gradle/caches/modules-2/files-2.1/dev.icerock.moko/parcelize-js/0.7.1/2b4a088d31253abd551e9f7e67d130bb9179d323/parcelize-jsir-0.7.1.klib"
+    },
+    "31195a5f28266b579d6be7d96b36733c": {
+      "src": "/Users/consultant/.gradle/caches/modules-2/files-2.1/io.ktor/ktor-client-core-js/1.6.7/2c77a7e7dad70f490e53a1626a59ffb30260a348/ktor-client-core-jsir-1.6.7.klib",
+      "target": "ktor-ktor-client-core-js-ir/1.6.7"
+    },
+    "5e127c62e8825ff9b68ce77c194dc7bb": {
+      "src": "/Users/consultant/.gradle/caches/modules-2/files-2.1/io.ktor/ktor-http-cio-js/1.6.7/9c0116f521d369cfa215013a3a19cf4b9001dd49/ktor-http-cio-jsir-1.6.7.klib"
+    },
+    "53cdfa1bf72814970b4d48e981311b34": {
+      "src": "/Users/consultant/.gradle/caches/modules-2/files-2.1/io.ktor/ktor-http-js/1.6.7/8ddd3324baf4e43ca87adea842eef1c51601b5fb/ktor-http-jsir-1.6.7.klib"
+    },
+    "89b49d0d0f4d4cad3e8f30708f1449ca": {
+      "src": "/Users/consultant/.gradle/caches/modules-2/files-2.1/io.ktor/ktor-utils-js/1.6.7/4da9b9678c077a29e693bbfa4ae368a6a903be9e/ktor-utils-jsir-1.6.7.klib"
+    },
+    "a8ff75cadcef08d1733c14c13a5b915f": {
+      "src": "/Users/consultant/.gradle/caches/modules-2/files-2.1/io.ktor/ktor-io-js/1.6.7/bdc2b467afa3f27440957a36b418c901ee74c629/ktor-io-jsir-1.6.7.klib"
+    },
+    "df43aea9620bbfe8509a44346c40b0d4": {
+      "src": "/Users/consultant/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlinx/kotlinx-coroutines-core-js/1.6.0/d0f8eb37d570b546770c41e6cbeccc88c1930673/kotlinx-coroutines-core-jsir-1.6.0.klib"
+    },
+    "940f7720aa4e5a0d051cad79ebb3f499": {
+      "src": "/Users/consultant/.gradle/caches/modules-2/files-2.1/io.ktor/ktor-client-json-js/1.6.7/df28ad5baf31e243447844bc7eb4540080837583/ktor-client-json-jsir-1.6.7.klib"
+    },
+    "7f4fa9e6bf642d401e42c53ffbf2b9bc": {
+      "src": "/Users/consultant/.gradle/caches/modules-2/files-2.1/io.ktor/ktor-client-auth-js/1.6.7/ca46ebdeb64e3522646ebf10b400a08fa7569200/ktor-client-auth-jsir-1.6.7.klib"
+    },
+    "ddcc0ff751075ed9380aee53d930db87": {
+      "src": "/Users/consultant/.gradle/caches/modules-2/files-2.1/io.ktor/ktor-client-logging-js/1.6.7/7a39393e5a5218220463ce3ca631506c30037636/ktor-client-logging-jsir-1.6.7.klib"
+    },
+    "ebf5ca81f782eada8bc98921b38a8f21": {
+      "src": "/Users/consultant/.gradle/caches/modules-2/files-2.1/io.ktor/ktor-client-serialization-js/1.6.7/932a1d70bd1f1369acabdcc0eb14f9a821d8755/ktor-client-serialization-jsir-1.6.7.klib"
+    },
+    "49e66acda87a2b75c717ac829346433e": {
+      "src": "/Users/consultant/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlinx/kotlinx-serialization-json-js/1.3.1/5ad635dddf94a02434d2498349081164f1b8a4f1/kotlinx-serialization-json-jsir-1.3.1.klib"
+    },
+    "74a9b516d603c74a6e983e2e60259ca3": {
+      "src": "/Users/consultant/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlinx/kotlinx-serialization-core-js/1.3.1/f4da08a961575159856779b60d44aac31029621d/kotlinx-serialization-core-jsir-1.3.1.klib"
+    },
+    "85daddb13c08d8c34e2e2036b9db1270": {
+      "src": "/Users/consultant/.gradle/caches/modules-2/files-2.1/com.arkivanov.mvikotlin/mvikotlin-js/3.0.0-alpha03/a212a478624335d51696c46b741fe632972d0c7/mvikotlin-jsir-3.0.0-alpha03.klib"
+    },
+    "640fb9f6acb4b6072d1b60f81122fc46": {
+      "src": "/Users/consultant/.gradle/caches/modules-2/files-2.1/com.arkivanov.essenty/lifecycle-js/0.2.2/de9d49d0974a88bed4539bb58fa9636d74f8ddf3/lifecycle-jsir-0.2.2.klib"
+    },
+    "bcf889eab69885e5a9c121f2d6d600fb": {
+      "src": "/Users/consultant/.gradle/caches/modules-2/files-2.1/com.arkivanov.essenty/utils-internal-js/0.2.2/54221756101710631945b960709f63a0e23928fb/utils-internal-jsir-0.2.2.klib"
+    },
+    "3e9268f945aa8eb3e86f4ee827cbdd49": {
+      "src": "/Users/consultant/.gradle/caches/modules-2/files-2.1/com.arkivanov.essenty/instance-keeper-js/0.2.2/644fc6e0c2ae6812f7051d458e53f88e34194915/instance-keeper-jsir-0.2.2.klib"
+    },
+    "121e5509df8d9ae92714a8da785be450": {
+      "src": "/Users/consultant/.gradle/caches/modules-2/files-2.1/com.arkivanov.mvikotlin/rx-internal-js/3.0.0-alpha03/c620de4db78a9723b5e585fae23606181437bdc/rx-internal-jsir-3.0.0-alpha03.klib"
+    },
+    "4781f663c5c19ab887c261bb02f6a925": {
+      "src": "/Users/consultant/.gradle/caches/modules-2/files-2.1/com.arkivanov.mvikotlin/utils-internal-js/3.0.0-alpha03/65bb85378c09316bcbf2229addeea67d8c77c1da/utils-internal-jsir-3.0.0-alpha03.klib"
+    },
+    "0870c8ff5c5c4c9acb2d90c5b1b43e19": {
+      "src": "/Users/consultant/.gradle/caches/modules-2/files-2.1/com.arkivanov.mvikotlin/rx-js/3.0.0-alpha03/2ade50072300780ca2275f01f2d462b90bb40939/rx-jsir-3.0.0-alpha03.klib"
+    },
+    "10e7cae6505717bf75e19e85ed48d0e6": {
+      "src": "/Users/consultant/.gradle/caches/modules-2/files-2.1/com.arkivanov.mvikotlin/mvikotlin-main-js/3.0.0-alpha03/e3a2229fd083b0cb0e37982b9b6e949d7b20b3a/mvikotlin-main-jsir-3.0.0-alpha03.klib"
+    },
+    "abd5b6efc2aa8e16e43afb4b2822f8a3": {
+      "src": "/Users/consultant/.gradle/caches/modules-2/files-2.1/com.arkivanov.mvikotlin/mvikotlin-extensions-coroutines-js/3.0.0-alpha03/96e27b295714378b27f79aa2a66f51559c4b935f/mvikotlin-extensions-coroutines-jsir-3.0.0-alpha03.klib"
+    },
+    "492e849963c210e549d421515df6753b": {
+      "src": "/Users/consultant/.gradle/caches/modules-2/files-2.1/com.arkivanov.mvikotlin/mvikotlin-logging-js/3.0.0-alpha03/9f52d31bed340a023f5ee5aeea3c24e63a66d8fd/mvikotlin-logging-jsir-3.0.0-alpha03.klib"
+    },
+    "a15013310dd23ed52c7b7c9212ee601b": {
+      "src": "/Users/consultant/.gradle/caches/modules-2/files-2.1/com.arkivanov.mvikotlin/mvikotlin-timetravel-js/3.0.0-alpha03/39d532c77d3768ade3e2b46f9456c08affafb855/mvikotlin-timetravel-jsir-3.0.0-alpha03.klib"
+    },
+    "2536a0e679641706d2560ef1d975186f": {
+      "src": "/Users/consultant/.gradle/caches/modules-2/files-2.1/com.arkivanov.mvikotlin/mvikotlin-timetravel-proto-internal-js/3.0.0-alpha03/cd74931f0fcb298d144ef5cc6ba251f7794a5274/mvikotlin-timetravel-proto-internal-jsir-3.0.0-alpha03.klib"
+    },
+    "f85e4c30e48e1ebd83723b618f5f05ee": {
+      "src": "/Users/consultant/.gradle/caches/modules-2/files-2.1/com.arkivanov.decompose/decompose-js/0.5.0/ac29ba6b8d0267561e78457658d3a4506f7d1099/decompose-jsir-0.5.0.klib"
+    },
+    "ada0e7a500173e3194b172d958165027": {
+      "src": "/Users/consultant/.gradle/caches/modules-2/files-2.1/com.arkivanov.essenty/state-keeper-js/0.2.2/1a269c8b783a9a3e450f5208bf700b33ac361b0a/state-keeper-jsir-0.2.2.klib"
+    },
+    "42beb1bf3553f3a62a3cec3c1dc697a3": {
+      "src": "/Users/consultant/.gradle/caches/modules-2/files-2.1/com.arkivanov.essenty/parcelable-js/0.2.2/458c171d61209d55844c33044970e54f41c74668/parcelable-jsir-0.2.2.klib"
+    },
+    "cdfa43b8c0f30dbe5c44a5dae8a83a81": {
+      "src": "/Users/consultant/.gradle/caches/modules-2/files-2.1/com.arkivanov.essenty/back-pressed-js/0.2.2/48cafa703a3d7dafea0857a2d0d0198747323563/back-pressed-jsir-0.2.2.klib"
+    },
+    "82b5e3f26f6014473b678f674dfb8600": {
+      "src": "/Users/consultant/.gradle/caches/modules-2/files-2.1/io.insert-koin/koin-core-js/3.1.2/362b534b5b297bb434a7c208e384b044c2e0db6d/koin-core-jsir-3.1.2.klib"
+    },
+    "dc5496ef1b4333f97dacf4dc182dbbb5": {
+      "src": "/Users/consultant/.gradle/caches/modules-2/files-2.1/io.github.shabinder/youtube-api-dl-js/1.4/97aa4bd2bf292d29fe593613e51743054389c975/youtube-api-dl-jsir-1.4.klib"
+    },
+    "a7d64845ed7b0ccaeeb56c22ee181bf3": {
+      "src": "/Users/consultant/.gradle/caches/modules-2/files-2.1/io.ktor/ktor-client-js/1.6.7/c9b4f1770c064464b37a35937148c440d77f4432/ktor-client-js-jsir-1.6.7.klib"
+    },
+    "8b0d3c10b8b77446c9a14aab264138f4": {
+      "src": "/Users/consultant/.gradle/caches/modules-2/files-2.1/com.squareup.sqldelight/coroutines-extensions-js/1.5.3/ffdd09595fb9320fb5fedd689ca164e928c53061/sqldelight-coroutines-extensions-jslegacy-1.5.3.jar",
+      "target": "sqldelight-coroutines-extensions-js-legacy/1.5.3"
+    },
+    "1ab8963d06da3ef9a3343d04ea02fc3f": {
+      "src": "/Users/consultant/.gradle/caches/modules-2/files-2.1/com.squareup.sqldelight/runtime-js/1.5.3/f0bcd94b7772238471cdd3d9c70b28b64ad5e141/runtime-jslegacy-1.5.3.jar",
+      "target": "sqldelight-runtime-js-legacy/1.5.3"
+    },
+    "ac61f8a4c7100ec1a31aedcad259eb82": {
+      "src": "/Users/consultant/.gradle/caches/modules-2/files-2.1/com.squareup.sqldelight/coroutines-extensions-js/1.5.3/a80bb24c7f80cd1d9a791c9ddef6ae2c2c4524ee/sqldelight-coroutines-extensions-jsir-1.5.3.klib"
+    },
+    "39e7f8521c3857ed30e3bb0a378588c0": {
+      "src": "/Users/consultant/.gradle/caches/modules-2/files-2.1/com.squareup.sqldelight/runtime-js/1.5.3/bf89e554a2329b0314add0fec65847465e8864e/runtime-jsir-1.5.3.klib"
+    },
+    "274dcf8799a714a12f62e1b4ba014a8a": {
+      "src": "/Users/consultant/.gradle/caches/modules-2/files-2.1/com.russhwolf/multiplatform-settings-no-arg-js/0.7.7/eeb0fa703345fd9e520425e103a7d20f04a1826f/multiplatform-settings-no-arg-jslegacy-0.7.7.jar",
+      "target": "MultiplatformSettings-multiplatform-settings-no-arg-js-legacy/0.7.7"
+    },
+    "e5f7f1253769457756187bf82ab928ae": {
+      "src": "/Users/consultant/.gradle/caches/modules-2/files-2.1/com.russhwolf/multiplatform-settings-js/0.7.7/9c381f9c41b23bcc1ade81c64cfea9099e71b2a2/multiplatform-settings-jslegacy-0.7.7.jar",
+      "target": "MultiplatformSettings-multiplatform-settings-js-legacy/0.7.7"
+    },
+    "32c8b76f00b56399bc170f183d5144b4": {
+      "src": "/Users/consultant/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin-wrappers/kotlin-extensions/1.0.1-pre.251-kotlin-1.5.31/9cbaea2784b13cc53f91c36c6ac7bce659835ce1/kotlin-extensions-1.0.1-pre.251-kotlin-1.5.31.jar",
+      "target": "kotlin-extensions/1.0.1-pre.251-kotlin-1.5.31"
+    },
+    "2bb18c45cfdaba21afb76cf043ae1669": {
+      "src": "/Users/consultant/.gradle/caches/modules-2/files-2.1/com.russhwolf/multiplatform-settings-no-arg-js/0.7.7/ff5f75dc380f680d2210bcfb53fb7831e7b45327/multiplatform-settings-no-arg-jsir-0.7.7.klib"
+    },
+    "e3956841e84355270a06d6abc2daad1f": {
+      "src": "/Users/consultant/.gradle/caches/modules-2/files-2.1/com.russhwolf/multiplatform-settings-js/0.7.7/890c806736210e8466bbf14983ee612ab16b7fec/multiplatform-settings-jsir-0.7.7.klib"
+    },
+    "a7a304688c6ffaff81e3e4d032155302": {
+      "src": "/Users/consultant/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin-wrappers/kotlin-extensions/1.0.1-pre.251-kotlin-1.5.31/40e7295626c95a989422d7511f5169daa439033d/kotlin-extensions-1.0.1-pre.251-kotlin-1.5.31.klib"
+    },
+    "1edfe651109d9a2b7e4088f3017bf114": {
+      "src": "/Users/consultant/.gradle/caches/modules-2/files-2.1/io.github.shabinder/fuzzywuzzy-js/1.1/c15e18ae66f8e53fd803a89ebc3895aa014aab3e/fuzzywuzzy-jslegacy-1.1.jar",
+      "target": "fuzzywuzzy-jsLegacy/1.1.0"
+    },
+    "e5c432bd631eac7e46b3d3839945fdd8": {
+      "src": "/Users/consultant/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlinx/kotlinx-datetime-js/0.3.2/f060bb8533a0906d5134a789c4b9363c6b301138/kotlinx-datetime-jslegacy-0.3.2.jar",
+      "target": "Kotlin-DateTime-library-kotlinx-datetime-js-legacy/0.3.2"
+    },
+    "bd37c9f8f6391d7ae50d6189e5a61fee": {
+      "src": "/Users/consultant/.gradle/caches/modules-2/files-2.1/io.github.shabinder/fuzzywuzzy-js/1.1/f0e9021c8eaef9f1d742f3df7794cc9cfda71b4e/fuzzywuzzy-jsir-1.1.klib"
+    },
+    "9fee69b53086c324e7a8e068cdeaaead": {
+      "src": "/Users/consultant/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlinx/kotlinx-datetime-js/0.3.2/eee6821c57e3870c51d0123bd69c8afc6d97c94c/kotlinx-datetime-jsir-0.3.2.klib",
+      "target": "Kotlin-DateTime-library-kotlinx-datetime-js-ir/0.3.2"
+    },
+    "466832095d56676c065b52089f02b1ac": {
+      "src": "/Users/consultant/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin-wrappers/kotlin-react/17.0.2-pre.251-kotlin-1.5.31/82dedf1fea8d21eb0a32f0a6a3fd65866fefdd94/kotlin-react-17.0.2-pre.251-kotlin-1.5.31.klib",
+      "target": "kotlin-wrappers-kotlin-react-js-ir/17.0.2-pre.251-kotlin-1.5.31"
+    },
+    "00a9a61518d2422dd5f6aea67d653629": {
+      "src": "/Users/consultant/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin-wrappers/kotlin-csstype/3.0.9-pre.251-kotlin-1.5.31/b0e71d2fd99354ed96bc7d1a005d6b4915445b1c/kotlin-csstype-3.0.9-pre.251-kotlin-1.5.31.klib",
+      "target": "kotlin-wrappers-kotlin-csstype-js-ir/3.0.9-pre.251-kotlin-1.5.31"
+    },
+    "a8aca17170c61852e1eaac3a47371378": {
+      "src": "/Users/consultant/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin-wrappers/kotlin-react-dom/17.0.2-pre.251-kotlin-1.5.31/5aa86f45dd31e1b8198bd46db32065cdfa12d1f1/kotlin-react-dom-17.0.2-pre.251-kotlin-1.5.31.klib",
+      "target": "kotlin-wrappers-kotlin-react-dom-js-ir/17.0.2-pre.251-kotlin-1.5.31"
+    },
+    "b16e351f6caf53ac12449928a903ddc6": {
+      "src": "/Users/consultant/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlinx/kotlinx-html-js/0.7.3/32f189139d9200d2c7c8c0b050e907788113609/kotlinx-html-jsir-0.7.3.klib"
+    },
+    "b464f3c9896a2e316a5577eedfc60b33": {
+      "src": "/Users/consultant/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin-wrappers/kotlin-styled/5.3.1-pre.250-kotlin-1.5.31/861ef3a18a4fd0a26d26b74dc40c788428bdc1c0/kotlin-styled-5.3.1-pre.250-kotlin-1.5.31.klib",
+      "target": "kotlin-wrappers-kotlin-styled-js-ir/5.3.1-pre.250-kotlin-1.5.31"
+    },
+    "630aab2021057575bbf894809797922a": {
+      "src": "/Users/consultant/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin-wrappers/kotlin-css-js/1.0.0-pre.250-kotlin-1.5.31/a064a3ebd72b2b54c361a1235083e54598bd737a/kotlin-css-jsir-1.0.0-pre.250-kotlin-1.5.31.klib"
+    },
+    "b414b992d36504870d1615b494807d6f": {
+      "src": "/Users/consultant/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-test-common/1.6.10/76cd822dc49f45edd67d950275ef43e63e841f76/kotlin-test-common-1.6.10.jar"
+    },
+    "e9cfad131fc27c598194fb391150e558": {
+      "src": "/Users/consultant/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-test-annotations-common/1.6.10/aae238f02a670cf4c645549c7fa30787e15fc33c/kotlin-test-annotations-common-1.6.10.jar"
+    }
+  }
+}

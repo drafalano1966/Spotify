@@ -1,0 +1,10 @@
+{
+  "name": "spotiflyer-preference-js-legacy",
+  "version": "0.0.0-unspecified",
+  "main": "kotlin/spotiflyer-preference-js-legacy.js",
+  "devDependencies": {},
+  "dependencies": {},
+  "peerDependencies": {},
+  "optionalDependencies": {},
+  "bundledDependencies": []
+}

@@ -1,0 +1,11 @@
+{
+  "name": "youtube-api-dl-js-legacy",
+  "version": "1.4.0",
+  "customFields": {},
+  "main": "youtube-api-dl-js-legacy.js",
+  "devDependencies": {},
+  "dependencies": {},
+  "peerDependencies": {},
+  "optionalDependencies": {},
+  "bundledDependencies": []
+}

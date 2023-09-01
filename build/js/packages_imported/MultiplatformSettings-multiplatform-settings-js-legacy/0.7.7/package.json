@@ -1,0 +1,11 @@
+{
+  "name": "MultiplatformSettings-multiplatform-settings-js-legacy",
+  "version": "0.7.7",
+  "customFields": {},
+  "main": "MultiplatformSettings-multiplatform-settings-js-legacy.js",
+  "devDependencies": {},
+  "dependencies": {},
+  "peerDependencies": {},
+  "optionalDependencies": {},
+  "bundledDependencies": []
+}

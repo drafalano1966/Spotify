@@ -1,0 +1,8 @@
+builtins_platform=JS
+unique_name=MVIKotlin\:mvikotlin-logging
+compiler_version=1.6.10
+depends=MVIKotlin\:mvikotlin MVIKotlin\:rx-internal MVIKotlin\:utils-internal MVIKotlin\:rx Essenty\:lifecycle Essenty\:instance-keeper Essenty\:utils-internal kotlin
+jsOutputName=MVIKotlin-mvikotlin-logging-js-ir
+abi_version=1.6.0
+metadata_version=1.4.1
+ir_version=1.0.0

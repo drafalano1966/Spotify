@@ -1,0 +1,2 @@
+
+$<io.github.shabinder:youtube-api-dl>:io.github.shabinder:io.github.shabinder.cipher:io.github.shabinder.exceptions:io.github.shabinder.extractor:io.github.shabinder.models:"io.github.shabinder.models.formats:#io.github.shabinder.models.playlist:"io.github.shabinder.models.quality:$io.github.shabinder.models.subtitles:io.github.shabinder.parser:io.github.shabinder.utils

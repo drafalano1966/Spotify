@@ -1,0 +1,11 @@
+{
+  "name": "fuzzywuzzy-jsLegacy",
+  "version": "1.1.0",
+  "customFields": {},
+  "main": "fuzzywuzzy-jsLegacy.js",
+  "devDependencies": {},
+  "dependencies": {},
+  "peerDependencies": {},
+  "optionalDependencies": {},
+  "bundledDependencies": []
+}

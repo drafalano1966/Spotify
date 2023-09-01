@@ -1,0 +1,11 @@
+{
+  "name": "Decompose-decompose-js-legacy",
+  "version": "0.5.0",
+  "customFields": {},
+  "main": "Decompose-decompose-js-legacy.js",
+  "devDependencies": {},
+  "dependencies": {},
+  "peerDependencies": {},
+  "optionalDependencies": {},
+  "bundledDependencies": []
+}

@@ -1,0 +1,8 @@
+builtins_platform=JS
+unique_name=MVIKotlin\:utils-internal
+compiler_version=1.6.10
+depends=kotlin
+jsOutputName=MVIKotlin-utils-internal-js-ir
+abi_version=1.6.0
+metadata_version=1.4.1
+ir_version=1.0.0

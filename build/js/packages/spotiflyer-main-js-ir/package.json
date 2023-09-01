@@ -1,0 +1,10 @@
+{
+  "name": "spotiflyer-main-js-ir",
+  "version": "0.0.0-unspecified",
+  "main": "kotlin/spotiflyer-main-js-ir.js",
+  "devDependencies": {},
+  "dependencies": {},
+  "peerDependencies": {},
+  "optionalDependencies": {},
+  "bundledDependencies": []
+}

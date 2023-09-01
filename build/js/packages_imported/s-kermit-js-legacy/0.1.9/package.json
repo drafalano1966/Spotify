@@ -1,0 +1,11 @@
+{
+  "name": "s-kermit-js-legacy",
+  "version": "0.1.9",
+  "customFields": {},
+  "main": "s-kermit-js-legacy.js",
+  "devDependencies": {},
+  "dependencies": {},
+  "peerDependencies": {},
+  "optionalDependencies": {},
+  "bundledDependencies": []
+}

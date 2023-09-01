@@ -1,0 +1,11 @@
+{
+  "name": "Essenty-state-keeper-js-legacy",
+  "version": "0.2.2",
+  "customFields": {},
+  "main": "Essenty-state-keeper-js-legacy.js",
+  "devDependencies": {},
+  "dependencies": {},
+  "peerDependencies": {},
+  "optionalDependencies": {},
+  "bundledDependencies": []
+}

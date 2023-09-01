@@ -1,0 +1,10 @@
+{
+  "name": "spotiflyer-data-models-js-legacy",
+  "version": "0.0.0-unspecified",
+  "main": "kotlin/spotiflyer-data-models-js-legacy.js",
+  "devDependencies": {},
+  "dependencies": {},
+  "peerDependencies": {},
+  "optionalDependencies": {},
+  "bundledDependencies": []
+}

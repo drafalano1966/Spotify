@@ -1,0 +1,11 @@
+{
+  "name": "Kotlin-Immutable-Collections-kotlinx-collections-immutable-jsLegacy",
+  "version": "0.3.3",
+  "customFields": {},
+  "main": "Kotlin-Immutable-Collections-kotlinx-collections-immutable-jsLegacy.js",
+  "devDependencies": {},
+  "dependencies": {},
+  "peerDependencies": {},
+  "optionalDependencies": {},
+  "bundledDependencies": []
+}

@@ -1,0 +1,26 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<!--
+3  ~  * Copyright (c)  2021  Shabinder Singh
+4  ~  * This program is free software: you can redistribute it and/or modify
+5  ~  * it under the terms of the GNU General Public License as published by
+6  ~  * the Free Software Foundation, either version 3 of the License, or
+7  ~  * (at your option) any later version.
+8  ~  *
+9  ~  * This program is distributed in the hope that it will be useful,
+10  ~  * but WITHOUT ANY WARRANTY; without even the implied warranty of
+11  ~  * MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+12  ~  * GNU General Public License for more details.
+13  ~  *
+14  ~  *  You should have received a copy of the GNU General Public License
+15  ~  *  along with this program.  If not, see <https://www.gnu.org/licenses/>.
+16-->
+17<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+18    package="com.shabinder.common.list" >
+19
+20    <uses-sdk
+21        android:minSdkVersion="28"
+21-->/Users/consultant/Downloads/SpotiFlyer-main/common/list/src/androidMain/AndroidManifest.xml
+22        android:targetSdkVersion="29" />
+22-->/Users/consultant/Downloads/SpotiFlyer-main/common/list/src/androidMain/AndroidManifest.xml
+23
+24</manifest>

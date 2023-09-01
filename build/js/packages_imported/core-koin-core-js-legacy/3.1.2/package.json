@@ -1,0 +1,11 @@
+{
+  "name": "core-koin-core-js-legacy",
+  "version": "3.1.2",
+  "customFields": {},
+  "main": "core-koin-core-js-legacy.js",
+  "devDependencies": {},
+  "dependencies": {},
+  "peerDependencies": {},
+  "optionalDependencies": {},
+  "bundledDependencies": []
+}

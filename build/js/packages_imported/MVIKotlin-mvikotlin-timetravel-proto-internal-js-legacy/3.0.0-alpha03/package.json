@@ -1,0 +1,11 @@
+{
+  "name": "MVIKotlin-mvikotlin-timetravel-proto-internal-js-legacy",
+  "version": "3.0.0-alpha03",
+  "customFields": {},
+  "main": "MVIKotlin-mvikotlin-timetravel-proto-internal-js-legacy.js",
+  "devDependencies": {},
+  "dependencies": {},
+  "peerDependencies": {},
+  "optionalDependencies": {},
+  "bundledDependencies": []
+}

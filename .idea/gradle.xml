@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="testRunner" value="GRADLE" />
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="gradleJvm" value="jbr-17" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/android" />
+            <option value="$PROJECT_DIR$/buildSrc" />
+            <option value="$PROJECT_DIR$/common" />
+            <option value="$PROJECT_DIR$/common/compose" />
+            <option value="$PROJECT_DIR$/common/core-components" />
+            <option value="$PROJECT_DIR$/common/data-models" />
+            <option value="$PROJECT_DIR$/common/database" />
+            <option value="$PROJECT_DIR$/common/dependency-injection" />
+            <option value="$PROJECT_DIR$/common/list" />
+            <option value="$PROJECT_DIR$/common/main" />
+            <option value="$PROJECT_DIR$/common/preference" />
+            <option value="$PROJECT_DIR$/common/providers" />
+            <option value="$PROJECT_DIR$/common/root" />
+            <option value="$PROJECT_DIR$/desktop" />
+            <option value="$PROJECT_DIR$/ffmpeg" />
+            <option value="$PROJECT_DIR$/ffmpeg/android-ffmpeg" />
+            <option value="$PROJECT_DIR$/maintenance-tasks" />
+            <option value="$PROJECT_DIR$/web-app" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>

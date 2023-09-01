@@ -1,0 +1,29 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/consultant/Downloads/SpotiFlyer-main/common/providers/src/androidMain/AndroidManifest.xml:18:1-20:12
+INJECTED from /Users/consultant/Downloads/SpotiFlyer-main/common/providers/src/androidMain/AndroidManifest.xml:18:1-20:12
+INJECTED from /Users/consultant/Downloads/SpotiFlyer-main/common/providers/src/androidMain/AndroidManifest.xml:18:1-20:12
+	package
+		ADDED from /Users/consultant/Downloads/SpotiFlyer-main/common/providers/src/androidMain/AndroidManifest.xml:18:11-51
+		INJECTED from /Users/consultant/Downloads/SpotiFlyer-main/common/providers/src/androidMain/AndroidManifest.xml
+		INJECTED from /Users/consultant/Downloads/SpotiFlyer-main/common/providers/src/androidMain/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/consultant/Downloads/SpotiFlyer-main/common/providers/src/androidMain/AndroidManifest.xml:18:52-110
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from /Users/consultant/Downloads/SpotiFlyer-main/common/providers/src/androidMain/AndroidManifest.xml:19:5-79
+	android:name
+		ADDED from /Users/consultant/Downloads/SpotiFlyer-main/common/providers/src/androidMain/AndroidManifest.xml:19:22-76
+uses-sdk
+INJECTED from /Users/consultant/Downloads/SpotiFlyer-main/common/providers/src/androidMain/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/consultant/Downloads/SpotiFlyer-main/common/providers/src/androidMain/AndroidManifest.xml
+INJECTED from /Users/consultant/Downloads/SpotiFlyer-main/common/providers/src/androidMain/AndroidManifest.xml
+INJECTED from /Users/consultant/Downloads/SpotiFlyer-main/common/providers/src/androidMain/AndroidManifest.xml
+INJECTED from /Users/consultant/Downloads/SpotiFlyer-main/common/providers/src/androidMain/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/consultant/Downloads/SpotiFlyer-main/common/providers/src/androidMain/AndroidManifest.xml
+		ADDED from /Users/consultant/Downloads/SpotiFlyer-main/common/providers/src/androidMain/AndroidManifest.xml
+		INJECTED from /Users/consultant/Downloads/SpotiFlyer-main/common/providers/src/androidMain/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/consultant/Downloads/SpotiFlyer-main/common/providers/src/androidMain/AndroidManifest.xml
+		ADDED from /Users/consultant/Downloads/SpotiFlyer-main/common/providers/src/androidMain/AndroidManifest.xml
+		INJECTED from /Users/consultant/Downloads/SpotiFlyer-main/common/providers/src/androidMain/AndroidManifest.xml

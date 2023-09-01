@@ -1,0 +1,11 @@
+{
+  "name": "moko-parcelize-parcelize-js-legacy",
+  "version": "0.7.1",
+  "customFields": {},
+  "main": "moko-parcelize-parcelize-js-legacy.js",
+  "devDependencies": {},
+  "dependencies": {},
+  "peerDependencies": {},
+  "optionalDependencies": {},
+  "bundledDependencies": []
+}

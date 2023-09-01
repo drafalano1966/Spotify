@@ -1,0 +1,11 @@
+{
+  "name": "MultiplatformSettings-multiplatform-settings-no-arg-js-legacy",
+  "version": "0.7.7",
+  "customFields": {},
+  "main": "MultiplatformSettings-multiplatform-settings-no-arg-js-legacy.js",
+  "devDependencies": {},
+  "dependencies": {},
+  "peerDependencies": {},
+  "optionalDependencies": {},
+  "bundledDependencies": []
+}
